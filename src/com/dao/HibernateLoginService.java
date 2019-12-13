@@ -13,7 +13,7 @@ public class HibernateLoginService {
 
 	public static boolean validateUserJDBC() {
 		return false;
-		
+		yo bitch;
 	}
 
 	public static boolean validateUserHB(String email, String pass) {
